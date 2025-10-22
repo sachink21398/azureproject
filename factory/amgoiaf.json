@@ -1,0 +1,9 @@
+{
+	"name": "amgoiaf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36f67fd6-3170-47ac-9ae3-9e6048712958",
+		"tenantId": "a46d48cb-beae-4551-80d9-8af0fa4c2c01"
+	}
+}
